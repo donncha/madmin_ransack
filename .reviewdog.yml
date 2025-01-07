@@ -1,0 +1,7 @@
+runner:
+  fasterer:
+    cmd: bundle exec fasterer
+    level: error
+  rubocop:
+    cmd: bundle exec rubocop
+    level: error
